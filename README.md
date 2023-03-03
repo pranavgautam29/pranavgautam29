@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavgautam29
-- 👀 I’m interested in Machine Learning, AI.
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Machine Learning, AI and Data Science
+- 🌱 I’m currently learning Data Science. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
